@@ -25,6 +25,8 @@ public class Proyectofinal_ventas {
         //salida de datos
         System.out.println("La comision de la venta es:"+comision);
         System.out.println("El sueldo neto es:"+pagototal);
+        //cambios
+        
       
        
                
